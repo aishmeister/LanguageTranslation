@@ -1,1 +1,11 @@
 # LanguageTranslation
+
+Language translation is a complex process that goes beyond mere word substitution. Users familiar with standard translation applications often encounter the challenge of words being lost in translation. These applications often fail to fully capture the meanings of words in a given language. Providing an array of synonyms alongside translated words helps a great deal in capturing the true essence and intended meaning of the text. This project addresses the limitations of direct translations by developing a Natural Language Processing (NLP) translator enriched with synonym generation. The aim is to provide a more nuanced and contextually accurate translation.
+
+The project uses Artificial Intelligence (AI) techniques, particularly neural networks, to comprehend and decode language patterns. The neural network, similar to the human brain, grasps contextual information, not just word-to-word relationships. By training the system to understand language rules, it gains the capability to navigate vast language libraries.
+
+This NLP translator uses a sophisticated approach inspired by Neural Machine Translation (NMT). Instead of direct word mapping, sentences are converted into numerical representations. These numbers are then cross-referenced with the target language. The specific methodology chosen for this project involves installing requisite dependencies, using key packages such as Gradio and transformers, and constructing an interactive web application. Gradio facilitates user-friendly demos in web browsers, increasing accessibility. Once the foundational components are in place, the synonym capabilities are integrated into the interface, allowing users to input sentences for translation.
+
+This abstract encapsulates the initial phase of the project, emphasizing the transition from the abstract concept to the actual implementation. While progress has been made in initiating the coding process, the next phase aims to resolve technical challenges and further develop the interface. The synonym feature will then be integrated, elevating the translator's capabilities beyond direct translation.
+
+Keywords: language translation; natural language processing; translation; artificial intelligence; neural network; python; notebook.
